@@ -1,0 +1,2 @@
+# superSigmaHyprlandConfig
+my hyprland config
