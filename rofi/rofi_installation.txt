@@ -1,0 +1,4 @@
+1. make sure you have the most recent rofi release here:
+https://github.com/davatorium/rofi/releases
+2. unzip tar.gz and follow the instructions here:
+https://github.com/lbonn/rofi/blob/wayland/INSTALL.md
